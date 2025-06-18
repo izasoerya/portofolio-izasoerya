@@ -247,7 +247,7 @@ const projects = [
       },
     ],
     image: ZONA_AIOT,
-    source_code_link: "https://github.com/gghozzit/SellingAssetsNusantara.git",
+    source_code_link: "https://zonafarm.site",
   },
   {
     name: "Zona Apps",
@@ -268,7 +268,7 @@ const projects = [
       },
     ],
     image: ZONA_MOBILE,
-    source_code_link: "https://github.com/gghozzit/KanalBerita.git",
+    source_code_link: "https://zonafarm.site",
   },
   {
     name: "AsetMU",
@@ -289,13 +289,12 @@ const projects = [
       },
     ],
     image: ASETMU,
-    source_code_link:
-      "https://github.com/gghozzit/SearchWithVariousAlgorithms.git",
+    source_code_link: "https://github.com/izasoerya/simastemu",
   },
   {
-    name: "SiTerka",
+    name: "Bamboo App",
     description:
-      "A mobile application that parses geospatial data to display interactive polygonal land data on a map. Users can tap on areas to view detailed properties.",
+      "A mobile application that parses geospatial data to display interactive marker land data on a map. Users can tap on areas to view detailed properties.",
     tags: [
       {
         name: "Flutter",
@@ -311,7 +310,7 @@ const projects = [
       },
     ],
     image: SEARCH, // Replace with actual image import reference
-    source_code_link: "https://github.com/yourusername/siterka", // Update if available
+    source_code_link: "https://github.com/izasoerya/bamboo_app", // Update if available
   },
   {
     name: "SiMandja",
@@ -332,7 +331,7 @@ const projects = [
       },
     ],
     image: KOPMA, // Replace with actual image import reference
-    source_code_link: "https://github.com/yourusername/simandja", // Update if available
+    source_code_link: "https://github.com/izasoerya/simanja_app", // Update if available
   },
   {
     name: "Flexbelt",
@@ -353,7 +352,7 @@ const projects = [
       },
     ],
     image: FlexBelt, // Replace with actual image import reference
-    source_code_link: "https://github.com/yourusername/flexbelt", // Update if available
+    source_code_link: "https://github.com/izasoerya/flex-belt-frontend", // Update if available
   },
 ];
 
