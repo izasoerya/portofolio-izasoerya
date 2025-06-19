@@ -42,6 +42,7 @@ import {
   ZONA_AIOT,
   ZONA_MOBILE,
   ASETMU,
+  BAMBOO_MAPPER,
 } from "../assets";
 
 export const navLinks = [
@@ -309,7 +310,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: SEARCH, // Replace with actual image import reference
+    image: BAMBOO_MAPPER, // Replace with actual image import reference
     source_code_link: "https://github.com/izasoerya/bamboo_app", // Update if available
   },
   {
