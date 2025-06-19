@@ -48,6 +48,7 @@ import ZONA_AIOT from "./Project/ZONA_AIOT.jpg";
 import ZONA_MOBILE from "./Project/ZONA_MOBILE.jpg";
 import ASETMU from "./Project/ASETMU.png";
 import BAMBOO_MAPPER from "./Project/Bamboo_Mapper.png";
+import SIMANDJA from "./Project/SiMandja.png";
 
 export {
   logo,
@@ -95,6 +96,7 @@ export {
   ZONA_MOBILE,
   BAMBOO_MAPPER,
   ASETMU,
+  SIMANDJA,
   FlexBelt,
   GMAT,
 };

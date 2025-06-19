@@ -43,6 +43,7 @@ import {
   ZONA_MOBILE,
   ASETMU,
   BAMBOO_MAPPER,
+  SIMANDJA,
 } from "../assets";
 
 export const navLinks = [
@@ -331,7 +332,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: KOPMA, // Replace with actual image import reference
+    image: SIMANDJA, // Replace with actual image import reference
     source_code_link: "https://github.com/izasoerya/simanja_app", // Update if available
   },
   {
